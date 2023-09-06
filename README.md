@@ -6,5 +6,5 @@ Files
 Data: Contains the dataset used for analysis.
 training.csv: Training data with pitch attributes and InPlay outcomes.
 deploy.csv: Deployment data for making predictions.
-Code: Contains Python code for data analysis and visualization.
+BlueJays_Pitch_Analysis.ipynb: Contains Python code for data analysis and visualization.
 Power BI: Contains PowerBI visualization file  showing relationships between pitch attributes and InPlay outcomes.
