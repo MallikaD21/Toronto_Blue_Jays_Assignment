@@ -5,6 +5,9 @@ This GitHub repository contains code and resources for a data analysis project f
 Files
 Data: Contains the dataset used for analysis.
 training.csv: Training data with pitch attributes and InPlay outcomes.
+cleaned_training.csv: Cleaned training data with pitch attributes and InPlay outcomes.
 deploy.csv: Deployment data for making predictions.
+cleaned_deploy.csv: Cleaned Deployment data for making predictions.
 BlueJays_Pitch_Analysis.ipynb: Contains Python code for data analysis and visualization.
 Power BI: Contains PowerBI visualization file  showing relationships between pitch attributes and InPlay outcomes.
+Pitch_Predictions.csv: Contains the final output of the python code along with all the answers to the given questions.
